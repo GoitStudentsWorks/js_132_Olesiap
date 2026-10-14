@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/wild_sketch/",
+    "build": "vite build --base=/js_132_Olesiap/",
     "preview": "vite preview"
   },
   "devDependencies": {
